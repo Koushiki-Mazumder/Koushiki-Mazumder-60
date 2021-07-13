@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: fuchsia;
+}
+img{
+    border: solid;
+    padding: 2px;
+    border-width: 10px;
+}
